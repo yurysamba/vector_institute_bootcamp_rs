@@ -1,0 +1,10 @@
+# Junk Files 
+*.DS_Store
+__pycache__
+*ipynb_checkpoints
+
+# Data Files
+data/*
+*wandb*
+sequence_aware_recsys/slirec/models
+sequence_aware_recsys/slirec/logs
